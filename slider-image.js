@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $('.o_gallery').slick({
+    $('.carousel').slick({
         slidesToShow: 6,
         slidesToScroll: 1,
         autoplay: true,
